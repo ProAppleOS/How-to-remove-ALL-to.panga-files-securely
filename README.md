@@ -1,4 +1,4 @@
-# How-to-remove-ALL-to.panga-files-securely
+# How to remove ALL to.panga files securely
 
 Twitter: ProAppleOS (https://twitter.com/ProAppleOS)
 
