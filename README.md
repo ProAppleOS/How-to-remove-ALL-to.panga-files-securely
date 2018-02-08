@@ -2,7 +2,7 @@
 
 Twitter: ProAppleOS (https://twitter.com/ProAppleOS)
 
-1. Sideload to.panga ipa with Cydia Impactor created by me: https://mega.nz/#!V55iXD7Z 
+1. Sideload to.panga ipa with Cydia Impactor created by me: https://mega.nz/#!V55iXD7Z!VobybXA6j80FFqp2QE9inD9QZhI_3YAFLSA2PvFfIcI
 2. trust developer in settings -> general -> profile and device managment -> click on your AppleID and trust
 3. open app and click "tap to remove to.panga"
 4. after finishing, jailbreak with the latest Electra build: https://coolstar.org/electra/ 
