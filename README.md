@@ -1,1 +1,0 @@
-# How-to-remove-ALL-to.panga-files-securely
